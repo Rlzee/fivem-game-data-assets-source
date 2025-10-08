@@ -1,0 +1,38 @@
+{
+    "man" : [
+        { "name": "Pirate Skull", "file": "mp_bea_tat_m_004", "id": "1", "dlc": "mpbeach" },
+        { "name": "Surf LS", "file": "mp_bea_tat_m_005", "id": "2", "dlc": "mpbeach" },
+        { "name": "Little Fish", "file": "mp_bea_tat_m_011", "id": "4", "dlc": "mpbeach" },
+        { "name":"SurfS Up", "file": "mp_bea_tat_m_012", "id": "5", "dlc": "mpbeach" },
+        { "name": "Eris Yellow Down Jacket", "file": "mp_bea_tat_m_014", "id": "3", "dlc": "mpbeach" },
+        { "name": "Cash is King", "file": "mp_bus_tat_m_000", "id": "9", "dlc": "mpbusiness" },
+        { "name": "Bold Dollar Sign", "file": "mp_bus_tat_m_004", "id": "10", "dlc": "mpbusiness" },
+        { "name": "Script Dollar Sign", "file": "mp_bus_tat_m_005", "id": "11", "dlc": "mpbusiness" },
+        { "name": "$100", "file": "mp_bus_tat_m_006", "id": "12", "dlc": "mpbusiness" }
+    ],
+    "woman": [
+        { "name": "Tribal Butterfly", "file": "mp_bea_tat_f_008", "id": "1", "dlc": "mpbeach" },
+        { "name": "Val-de-Grace Logo", "file": "mp_bus_tat_f_003", "id": "5", "dlc": "mpbusiness" },
+        { "name": "Money Rose", "file": "mp_bus_tat_f_004", "id": "6", "dlc": "mpbusiness" }
+    ],
+    "shared": [
+        { "name": "Morbid Arachnid", "file": "mp_biker_tat_009", "manId": "6", "womanId": "2", "dlc": "mpbiker" },
+        { "name": "FTW", "file": "mp_biker_tat_038", "manId": "7", "womanId": "3", "dlc": "mpbiker" },
+        { "name": "Western Stylized", "file": "mp_biker_tat_051", "manId": "8", "womanId": "4", "dlc": "mpbiker" },
+        { "name": "Skull", "file": "mp_fm_tat_award_000", "manId": "29", "womanId": "23", "dlc": "basegame" },
+        { "name": "Lock & Load", "file": "mp_gunrunning_tattoo_003", "manId": "17", "womanId": "11", "dlc": "mpgunrunning" },
+        { "name": "Beautiful Eye", "file": "mp_hip_tat_005", "manId": "18", "womanId": "12", "dlc": "mphipster" },
+        { "name": "Geo Fox", "file": "mp_hip_tat_021", "manId": "19", "womanId": "13", "dlc": "mphipster" },
+        { "name": "Sinner", "file": "mp_smuggler_tattoo_011", "manId": "22", "womanId": "16", "dlc": "mpsmuggler" },
+        { "name": "Thief", "file": "mp_smuggler_tattoo_012", "manId": "23", "womanId": "17", "dlc": "mpsmuggler" },
+        { "name": "Stunt Skull", "file": "mp_stunt_tat_000", "manId": "24", "womanId": "18", "dlc": "mpstunt" },
+        { "name": "Scorpion", "file": "mp_stunt_tat_004", "manId": "25", "womanId": "19", "dlc": "mpstunt" },
+        { "name": "Toxic Spider", "file": "mp_stunt_tat_006", "manId": "26", "womanId": "20", "dlc": "mpstunt" },
+        { "name": "Bat Wheel", "file": "mp_stunt_tat_017", "manId": "27", "womanId": "21", "dlc": "mpstunt" },
+        { "name": "Flaming Quad", "file": "mp_stunt_tat_042", "manId": "28", "womanId": "22", "dlc": "mpstunt" },
+        { "name": "Los Meurtos", "file": "mp_xm2_tat_m_007", "manId": "13", "womanId": "7", "dlc": "mpchristmas2" },
+        { "name": "Snake Head Outline", "file": "mp_xm2_tat_m_024", "manId": "14", "womanId": "8", "dlc": "mpchristmas2" },
+        { "name": "Snake Head Color", "file": "mp_xm2_tat_m_025", "manId": "15", "womanId": "9", "dlc": "mpchristmas2" },
+        { "name": "Beautiful Death", "file": "mp_xm2_tat_m_029", "manId": "16", "womanId": "10", "dlc": "mpchristmas2" }
+    ]
+}
