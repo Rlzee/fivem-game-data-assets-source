@@ -1,0 +1,47 @@
+{
+    "man": [
+        { "name": "Tribal Star", "file": "mp_bea_tat_m_010", "id": "1", "dlc": "mpbeach" }
+    ],
+    "woman": [
+        { "name": "Single", "file": "mp_bus_tat_f_002", "id": "9", "dlc": "mpbusiness" }
+    ],
+    "shared": [
+        { "name": "Rose Tribute", "file": "mp_biker_tat_002", "manId": "2", "womanId": "1", "dlc": "mpbiker" },
+        { "name": "Ride or Die", "file": "mp_biker_tat_015", "manId": "3", "womanId": "2", "dlc": "mpbiker" },
+        { "name": "Bad Luck", "file": "mp_biker_tat_027", "manId": "4", "womanId": "3", "dlc": "mpbiker" },
+        { "name": "Engulfed Skull", "file": "mp_biker_tat_036", "manId": "5", "womanId": "4", "dlc": "mpbiker" },
+        { "name": "Scorched Skull", "file": "mp_biker_tat_037", "manId": "6", "womanId": "5", "dlc": "mpbiker" },
+        { "name": "Ride Free", "file": "mp_biker_tat_044", "manId": "7", "womanId": "6", "dlc": "mpbiker" },
+        { "name": "Bone Cruiser", "file": "mp_biker_tat_056", "manId": "8", "womanId": "7", "dlc": "mpbiker" },
+        { "name": "Laughing Skull", "file": "mp_biker_tat_057", "manId": "9", "womanId": "8", "dlc": "mpbiker" },
+        { "name": "Dragon Mural", "file": "mp_fm_tat_008", "manId": "34", "womanId": "34", "dlc": "basegame" },
+        { "name": "Serpent Skull", "file": "mp_fm_tat_021", "manId": "35", "womanId": "35", "dlc": "basegame" },
+        { "name": "Hottie", "file": "mp_fm_tat_023", "manId": "36", "womanId": "36", "dlc": "basegame" },
+        { "name": "Smoking Dagger", "file": "mp_fm_tat_026", "manId": "37", "womanId": "37", "dlc": "basegame" },
+        { "name": "Faith", "file": "mp_fm_tat_032", "manId": "38", "womanId": "38", "dlc": "basegame" },
+        { "name": "Chinese Dragon", "file": "mp_fm_tat_033", "manId": "39", "womanId": "39", "dlc": "basegame" },
+        { "name": "Dragon", "file": "mp_fm_tat_035", "manId": "40", "womanId": "40", "dlc": "basegame"  },
+        { "name": "Grim Reaper", "file": "mp_fm_tat_037", "manId": "41", "womanId": "41", "dlc": "basegame" },
+        { "name": "Dragon and Dagger", "file": "mp_fm_tat_award_009", "manId": "32", "womanId": "32", "dlc": "basegame" },
+        { "name": "Melting Skull", "file": "mp_fm_tat_002", "manId": "33", "womanId": "33", "dlc": "basegame" },
+        { "name": "Patriot Skull", "file": "mp_gunrunning_tattoo_005", "manId": "12", "womanId": "12", "dlc": "mpgunrunning" },
+        { "name": "Stylized Tiger", "file": "mp_gunrunning_tattoo_007", "manId": "13", "womanId": "13", "dlc": "mpgunrunning" },
+        { "name": "Death Skull", "file": "mp_gunrunning_tattoo_011", "manId": "14", "womanId": "14", "dlc": "mpgunrunning" },
+        { "name": "Rose Revolver", "file": "mp_gunrunning_tattoo_023", "manId": "15", "womanId": "15", "dlc": "mpgunrunning" },
+        { "name": "Squares", "file": "mp_hip_tat_009", "manId": "16", "womanId": "16", "dlc": "mphipster" },
+        { "name": "Charm", "file": "mp_hip_tat_019", "manId": "17", "womanId": "17", "dlc": "mphipster" },
+        { "name": "Black Anchor", "file": "mp_hip_tat_040", "manId": "18", "womanId": "18", "dlc": "mphipster" },
+        { "name": "LS Serpent", "file": "mp_lr_tat_007", "manId": "23", "womanId": "23", "dlc": "mplowrider" },
+        { "name": "Presidents", "file": "mp_lr_tat_020", "manId": "24", "womanId": "24", "dlc": "mplowrider" },
+        { "name": "Death Us Do Part", "file": "mp_lr_tat_029", "manId": "22", "womanId": "22", "dlc": "mplowrider2" },
+        { "name": "Serpent of Death", "file": "mp_luxe_tat_000", "manId": "26", "womanId": "26", "dlc": "mpluxe" },
+        { "name": "Cross Of Roses", "file": "mp_luxe_tat_011", "manId": "25", "womanId": "25", "dlc": "mpluxe2" },
+        { "name": "Dagger Devil", "file": "mp_stunt_tat_007", "manId": "27", "womanId": "27", "dlc": "mpstunt" },
+        { "name": "Dirt Track Hero", "file": "mp_stunt_tat_013", "manId": "28", "womanId": "28", "dlc": "mpstunt" },
+        { "name": "Golden Cobra", "file": "mp_stunt_tat_021", "manId": "29", "womanId": "29", "dlc": "mpstunt" },
+        { "name": "Quad Goblin", "file": "mp_stunt_tat_028", "manId": "30", "womanId": "30", "dlc": "mpstunt" },
+        { "name": "Stunt Jesus", "file": "mp_stunt_tat_031", "manId": "31", "womanId": "31", "dlc": "mpstunt" },
+        { "name": "Spider Outline", "file": "mp_xm2_tat_m_001", "manId": "10", "womanId": "10", "dlc": "mpchristmas2" },
+        { "name": "Spuder Color", "file": "mp_xm2_tat_m_002", "manId": "11", "womanId": "11", "dlc": "mpchristmas2" }
+    ]
+}
