@@ -1,0 +1,43 @@
+{
+    "man": [
+        { "name": "Tribal Tiki Tower", "file": "mp_bea_tat_m_008", "id": "1", "dlc": "mpbeach" },
+        { "name": "Floral Dagger", "file": "mp_xm2_tat_m_014", "id": "7", "dlc": "mpchristmas2" }
+    ],
+    "woman": [
+        { "name": "School of Fish", "file": "mp_bea_tat_f_007", "id": "1", "dlc": "mpbeach" },
+        { "name": "Diamond Crown", "file": "mp_bus_tat_f_005", "id": "7", "dlc": "mpbusiness" } 
+    ],
+    "shared": [
+        { "name": "Dragon's Fury", "file": "mp_biker_tat_004", "manId": "2", "womanId": "2", "dlc": "mpbiker" },
+        { "name": "Western Insignia", "file": "mp_biker_tat_022", "manId": "3", "womanId": "3", "dlc": "mpbiker" },
+        { "name": "Dusk Rider", "file": "mp_biker_tat_028", "manId": "4", "womanId": "4", "dlc": "mpbiker" },
+        { "name": "American Made", "file": "mp_biker_tat_040", "manId": "5", "womanId": "5", "dlc": "mpbiker" },
+        { "name": "STFU", "file": "mp_biker_tat_048", "manId": "6", "womanId": "6", "dlc": "mpbiker" },
+        { "name": "The Warrior", "file": "mp_fm_tat_007", "manId": "29", "womanId": "29", "dlc": "basegame" },
+        { "name": "Tribal", "file": "mp_fm_tat_017", "manId": "30", "womanId": "30", "dlc": "basegame" },
+        { "name": "Fiery Dragon", "file": "mp_fm_tat_022", "manId": "31", "womanId": "31", "dlc": "basegame" },
+        { "name": "Broken Skull", "file": "mp_fm_tat_039", "manId": "32", "womanId": "32", "dlc": "basegame" },
+        { "name": "Flaming Skull", "file": "mp_fm_tat_040", "manId": "33", "womanId": "33", "dlc": "basegame" },
+        { "name": "Flamming Scorpion", "file": "mp_fm_tat_042", "manId": "34", "womanId": "34", "dlc": "basegame" },
+        { "name": "Indian Ram", "file": "mp_fm_tat_043", "manId": "35", "womanId": "35", "dlc": "basegame" },
+        { "name": "Skull and Sword", "file": "mp_fm_tat_award_006", "manId": "28", "womanId": "28", "dlc": "basegame" },
+        { "name": "Combat Skull", "file": "mp_gunrunning_tattoo_006", "manId": "8", "womanId": "8", "dlc": "mpgunrunning" },
+        { "name": "Restless Skull", "file": "mp_gunrunning_tattoo_026", "manId": "9", "womanId": "9", "dlc": "mpgunrunning" },
+        { "name": "Pistol Ace", "file": "mp_gunrunning_tattoo_030", "manId": "10", "womanId": "10", "dlc": "mpgunrunning" },
+        { "name": "Grub", "file": "mp_hip_tat_038", "manId": "11", "womanId": "11", "dlc": "mphipster" },
+        { "name": "Sparkplug", "file": "mp_hip_tat_042", "manId": "12", "womanId": "12", "dlc": "mphipster" },
+        { "name": "Ink Me", "file": "mp_lr_tat_017", "manId": "16", "womanId": "16", "dlc": "mplowrider" },
+        { "name": "Dnace of Hearts", "file": "mp_lr_tat_023", "manId": "17", "womanId": "17", "dlc": "mplowrider" },
+        { "name": "San Andreas Prayer", "file": "mp_lr_tat_030", "manId": "15", "womanId": "15", "dlc": "mplowrider2" },
+        { "name": "Elaborate Los Muertos", "file": "mp_luxe_tat_001", "manId": "19", "womanId": "19", "dlc": "mpluxe" },
+        { "name": "Starmetric", "file": "mp_luxe_tat_023", "manId": "18", "womanId": "18", "dlc": "mpluxe2" },
+        { "name": "Homeward Bound", "file": "mp_smuggler_tattoo_020", "manId": "20", "womanId": "20", "dlc": "mpsmuggler" },
+        { "name": "Demon Spark Plug", "file": "mp_stunt_tat_005", "manId": "21", "womanId": "21", "dlc": "mpstunt" },
+        { "name": "Praying Gloves", "file": "mp_stunt_tat_015", "manId": "22", "womanId": "22", "dlc": "mpstunt" },
+        { "name": "Piston Angel", "file": "mp_stunt_tat_020", "manId": "23", "womanId": "23", "dlc": "mpstunt" },
+        { "name": "Speed Freak", "file": "mp_stunt_tat_025", "manId": "24", "womanId": "24", "dlc": "mpstunt" },
+        { "name": "Wheelie Mouse", "file": "mp_stunt_tat_032", "manId": "25", "womanId": "25", "dlc": "mpstunt" },
+        { "name": "Severed Hand", "file": "mp_stunt_tat_045", "manId": "26", "womanId": "26", "dlc": "mpstunt" },
+        { "name": "Brake Knifem", "file": "mp_stunt_tat_047", "manId": "27", "womanId": "27", "dlc": "mpstunt" }
+    ]
+}
