@@ -16,7 +16,7 @@
         { "name": "Money Rose", "file": "mp_bus_tat_f_004", "id": "6", "dlc": "mpbusiness" }
     ],
     "shared": [
-        { "name": "Morbid Arachnid", "file": "mp_biker_tat_009", "manId": "6", "womanId": "2", "dlc": "mpbiker" },
+        { "name": "Morbid Arachnid", "file": "mp_biker_tat_009", "manId": "MP_MP_Biker_Tat_000_M", "womanId": "2", "dlc": "mpbiker" },
         { "name": "FTW", "file": "mp_biker_tat_038", "manId": "7", "womanId": "3", "dlc": "mpbiker" },
         { "name": "Western Stylized", "file": "mp_biker_tat_051", "manId": "8", "womanId": "4", "dlc": "mpbiker" },
         { "name": "Skull", "file": "mp_fm_tat_award_000", "manId": "29", "womanId": "23", "dlc": "basegame" },
