@@ -1,6 +1,6 @@
 {
     "man" : [
-        { "name": "Pirate Skull", "file": "mp_bea_tat_m_004", "id": "1", "dlc": "mpbeach" },
+        { "name": "Pirate Skull", "file": "mp_bea_tat_m_004", "id": "MP_Bea_M_Head_000", "dlc": "mpbeach" },
         { "name": "Surf LS", "file": "mp_bea_tat_m_005", "id": "2", "dlc": "mpbeach" },
         { "name": "Little Fish", "file": "mp_bea_tat_m_011", "id": "4", "dlc": "mpbeach" },
         { "name":"SurfS Up", "file": "mp_bea_tat_m_012", "id": "5", "dlc": "mpbeach" },
