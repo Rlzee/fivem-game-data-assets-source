@@ -7,7 +7,7 @@
         { "name": "Eris Yellow Down Jacket", "file": "mp_bea_tat_m_014", "id": "MP_Bea_M_Head_002", "dlc": "mpbeach" },
         { "name": "Cash is King", "file": "mp_bus_tat_m_000", "id": "MP_Buis_M_Neck_000", "dlc": "mpbusiness" },
         { "name": "Bold Dollar Sign", "file": "mp_bus_tat_m_004", "id": "MP_Buis_M_Neck_001", "dlc": "mpbusiness" },
-        { "name": "Script Dollar Sign", "file": "mp_bus_tat_m_005", "id": "MP_Buis_M_Neck_002'", "dlc": "mpbusiness" },
+        { "name": "Script Dollar Sign", "file": "mp_bus_tat_m_005", "id": "MP_Buis_M_Neck_002", "dlc": "mpbusiness" },
         { "name": "$100", "file": "mp_bus_tat_m_006", "id": "MP_Buis_M_Neck_003", "dlc": "mpbusiness" }
     ],
     "woman": [
