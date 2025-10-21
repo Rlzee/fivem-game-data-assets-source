@@ -67,7 +67,7 @@
 		{ "name": "Biker Mount", "file": "mp_biker_tat_052", "manId": "MP_MP_Biker_Tat_052_M", "womanId": "MP_MP_Biker_Tat_052_F", "dlc": "mpbiker" },
 		{ "name": "Reaper Vulture", "file": "mp_biker_tat_058", "manId": "MP_MP_Biker_Tat_058_M", "womanId": "MP_MP_Biker_Tat_058_F", "dlc": "mpbiker" },
 		{ "name": "Faggio", "file": "mp_biker_tat_059", "manId": "MP_MP_Biker_Tat_059_M", "womanId": "MP_MP_Biker_Tat_059_F", "dlc": "mpbiker" },
-		{ "name": "We Are The Mods!", "file": "mp_mp_biker_tat_060", "manId": "MP_MP_Biker_Tat_060_M", "womanId": "MP_MP_Biker_Tat_060_F", "dlc": "mpbiker" },
+		{ "name": "We Are The Mods!", "file": "mp_biker_tat_060", "manId": "MP_MP_Biker_Tat_060_M", "womanId": "MP_MP_Biker_Tat_060_F", "dlc": "mpbiker" },
 		{ "name": "Thor & Goblin", "file": "mp_christmas2017_tattoo_000", "manId": "MP_Christmas2017_Tattoo_000_M", "womanId": "MP_Christmas2017_Tattoo_000_F", "dlc": "mpchristmas2017" },
 		{ "name": "Kabuto", "file": "mp_christmas2017_tattoo_002", "manId": "MP_Christmas2017_Tattoo_002_M", "womanId": "MP_Christmas2017_Tattoo_002_F", "dlc": "mpchristmas2017" },
 		{ "name": "Native Warrior", "file": "mp_christmas2017_tattoo_003", "manId": "MP_Christmas2017_Tattoo_003_M", "womanId": "MP_Christmas2017_Tattoo_003_F", "dlc": "mpchristmas2017" },
