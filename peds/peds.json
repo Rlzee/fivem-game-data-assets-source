@@ -1,0 +1,4256 @@
+{
+    "Ambient Female": [
+        {
+            "id": "a_f_m_beach_01",
+            "genre": "female",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "a_f_m_bevhills_01",
+            "genre": "female",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "a_f_m_bevhills_02",
+            "genre": "female",
+            "dlc": "patchday4ng"
+        },
+        {
+            "id": "a_f_m_bodybuild_01",
+            "genre": "female",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "a_f_m_business_02",
+            "genre": "female",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "a_f_m_downtown_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_m_eastsa_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_m_eastsa_02",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_m_fatbla_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_m_fatcult_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_m_fatwhite_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_m_ktown_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_m_ktown_02",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_m_prolhost_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_m_salton_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_m_skidrow_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_m_soucent_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_m_soucent_02",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_m_soucentmc_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_m_tourist_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_m_tramp_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_m_trampbeac_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_o_genstreet_01",
+            "genre": "female",
+            "dlc": "patchday21ng"
+        },
+        {
+            "id": "a_f_o_indian_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_o_ktown_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_o_salton_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_o_soucent_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_o_soucent_02",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_y_beach_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_y_bevhills_01",
+            "genre": "female",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "a_f_y_bevhills_02",
+            "genre": "female",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "a_f_y_bevhills_03",
+            "genre": "female",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "a_f_y_bevhills_04",
+            "genre": "female",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "a_f_y_business_01",
+            "genre": "female",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "a_f_y_business_02",
+            "genre": "female",
+            "dlc": "patchday4ng"
+        },
+        {
+            "id": "a_f_y_business_03",
+            "genre": "female",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "a_f_y_business_04",
+            "genre": "female",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "a_f_y_clubcust_01",
+            "genre": "female",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "a_f_y_clubcust_02",
+            "genre": "female",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "a_f_y_clubcust_03",
+            "genre": "female",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "a_f_y_eastsa_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_y_eastsa_02",
+            "genre": "female",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "a_f_y_eastsa_03",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_y_epsilon_01",
+            "genre": "female",
+            "dlc": "patchday6ng"
+        },
+        {
+            "id": "a_f_y_femaleagent",
+            "genre": "female",
+            "dlc": "mpheist"
+        },
+        {
+            "id": "a_f_y_fitness_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_y_fitness_02",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_y_genhot_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_y_golfer_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_y_hiker_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_y_hippie_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_y_hipster_01",
+            "genre": "female",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "a_f_y_hipster_02",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_y_hipster_03",
+            "genre": "female",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "a_f_y_hipster_04",
+            "genre": "female",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "a_f_y_indian_01",
+            "genre": "female",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "a_f_y_juggalo_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_y_runner_01",
+            "genre": "female",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "a_f_y_rurmeth_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_y_scdressy_01",
+            "genre": "female",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "a_f_y_skater_01",
+            "genre": "female",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "a_f_y_soucent_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_y_soucent_02",
+            "genre": "female",
+            "dlc": "patchday6ng"
+        },
+        {
+            "id": "a_f_y_soucent_03",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_y_tennis_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_y_topless_01",
+            "genre": "female",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "a_f_y_tourist_01",
+            "genre": "female",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "a_f_y_tourist_02",
+            "genre": "female",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "a_f_y_vinewood_01",
+            "genre": "female",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "a_f_y_vinewood_02",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_y_vinewood_03",
+            "genre": "female",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "a_f_y_vinewood_04",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_y_yoga_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_f_y_gencaspat_01",
+            "genre": "female",
+            "dlc": "mpvinewood"
+        },
+        {
+            "id": "a_f_y_smartcaspat_01",
+            "genre": "female",
+            "dlc": "mpvinewood"
+        }
+    ],
+    "Ambient Male": [
+        {
+            "id": "a_m_m_acult_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_m_afriamer_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_m_beach_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "a_m_m_beach_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_m_bevhills_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_m_bevhills_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_m_business_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_m_eastsa_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_m_eastsa_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_m_farmer_01",
+            "genre": "male",
+            "dlc": "patchday4ng"
+        },
+        {
+            "id": "a_m_m_fatlatin_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_m_genfat_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_m_genfat_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_m_golfer_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "a_m_m_hasjew_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_m_hillbilly_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "a_m_m_hillbilly_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_m_indian_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_m_ktown_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_m_malibu_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_m_mexcntry_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_m_mexlabor_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_m_og_boss_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "a_m_m_paparazzi_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_m_polynesian_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_m_prolhost_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_m_rurmeth_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_m_salton_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_m_salton_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_m_salton_03",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_m_salton_04",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_m_skater_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "a_m_m_skidrow_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_m_socenlat_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_m_soucent_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_m_soucent_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_m_soucent_03",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_m_soucent_04",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_m_stlat_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_m_tennis_01",
+            "genre": "male",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "a_m_m_tourist_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_m_tramp_01",
+            "genre": "male",
+            "dlc": "patchday6ng"
+        },
+        {
+            "id": "a_m_m_trampbeac_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "a_m_m_tranvest_01",
+            "genre": "male",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "a_m_m_tranvest_02",
+            "genre": "male",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "a_m_o_acult_01",
+            "genre": "male",
+            "dlc": "patchday4ng"
+        },
+        {
+            "id": "a_m_o_acult_02",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "a_m_o_beach_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "a_m_o_genstreet_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_o_ktown_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_o_salton_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_o_soucent_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_o_soucent_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_o_soucent_03",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_o_tramp_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_acult_01",
+            "genre": "male",
+            "dlc": "patchday4ng"
+        },
+        {
+            "id": "a_m_y_acult_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_beach_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_beach_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_beach_03",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "a_m_y_beachvesp_01",
+            "genre": "male",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "a_m_y_beachvesp_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_bevhills_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_bevhills_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_breakdance_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_busicas_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_business_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_business_02",
+            "genre": "male",
+            "dlc": "patchday19ng"
+        },
+        {
+            "id": "a_m_y_business_03",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_clubcust_01",
+            "genre": "male",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "a_m_y_cyclist_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_dhill_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_downtown_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_eastsa_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "a_m_y_eastsa_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_epsilon_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_epsilon_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_gay_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_gay_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_genstreet_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_genstreet_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_golfer_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "a_m_y_hasjew_01",
+            "genre": "male",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "a_m_y_hiker_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_hippy_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_hipster_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "a_m_y_hipster_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_hipster_03",
+            "genre": "male",
+            "dlc": "patchday6ng"
+        },
+        {
+            "id": "a_m_y_indian_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_jetski_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_juggalo_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_ktown_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_ktown_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_latino_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "a_m_y_methhead_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_mexthug_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_motox_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_motox_02",
+            "genre": "male",
+            "dlc": "patchday4ng"
+        },
+        {
+            "id": "a_m_y_musclbeac_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_musclbeac_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_polynesian_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_roadcyc_01",
+            "genre": "male",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "a_m_y_runner_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "a_m_y_runner_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_salton_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_skater_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_skater_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_soucent_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "a_m_y_soucent_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_soucent_03",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "a_m_y_soucent_04",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_stbla_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_stbla_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_stlat_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_stwhi_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "a_m_y_stwhi_02",
+            "genre": "male",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "a_m_y_sunbathe_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_surfer_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_vindouche_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_vinewood_01",
+            "genre": "male",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "a_m_y_vinewood_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_vinewood_03",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_vinewood_04",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_m_y_yoga_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "a_m_m_mlcrisis_01",
+            "genre": "male",
+            "dlc": "mpvinewood"
+        },
+        {
+            "id": "a_m_y_gencaspat_01",
+            "genre": "male",
+            "dlc": "mpvinewood"
+        },
+        {
+            "id": "a_m_y_smartcaspat_01",
+            "genre": "male",
+            "dlc": "mpvinewood"
+        }
+    ],
+    "Animals": [
+        {
+            "id": "a_c_boar",
+            "genre": "animal",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_c_cat_01",
+            "genre": "animal",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_c_chickenhawk",
+            "genre": "animal",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "a_c_chimp",
+            "genre": "animal",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_c_chop",
+            "genre": "animal",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_c_cormorant",
+            "genre": "animal",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_c_cow",
+            "genre": "animal",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_c_coyote",
+            "genre": "animal",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_c_crow",
+            "genre": "animal",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_c_deer",
+            "genre": "animal",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_c_dolphin",
+            "genre": "animal",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_c_fish",
+            "genre": "animal",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_c_hen",
+            "genre": "animal",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_c_humpback",
+            "genre": "animal",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_c_husky",
+            "genre": "animal",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_c_killerwhale",
+            "genre": "animal",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_c_mtlion",
+            "genre": "animal",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_c_pig",
+            "genre": "animal",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_c_pigeon",
+            "genre": "animal",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_c_poodle",
+            "genre": "animal",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_c_pug",
+            "genre": "animal",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_c_rabbit_01",
+            "genre": "animal",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_c_rat",
+            "genre": "animal",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_c_retriever",
+            "genre": "animal",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_c_rhesus",
+            "genre": "animal",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "a_c_rottweiler",
+            "genre": "animal",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_c_rottweiler_02",
+            "genre": "animal",
+            "dlc": "mp2025_01"
+        },
+        {
+            "id": "a_c_seagull",
+            "genre": "animal",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "a_c_sharkhammer",
+            "genre": "animal",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_c_sharktiger",
+            "genre": "animal",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_c_shepherd",
+            "genre": "animal",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_c_stingray",
+            "genre": "animal",
+            "dlc": "basegame"
+        },
+        {
+            "id": "a_c_westy",
+            "genre": "animal",
+            "dlc": "basegame"
+        }
+    ],
+    "Cutscene": [
+        {
+            "id": "cs_amandatownley",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_andreas",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_ashley",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_bankman",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_barry",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_beverly",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_brad",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_bradcadaver",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_carbuyer",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_casey",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_chengsr",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_chrisformage",
+            "genre": "cutscene",
+            "dlc": "patchday27ng"
+        },
+        {
+            "id": "cs_clay",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_dale",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_davenorton",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_debra",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_denise",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_devin",
+            "genre": "cutscene",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "cs_dom",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_dreyfuss",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_drfriedlander",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_fabien",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_fbisuit_01",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_floyd",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_guadalope",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_gurk",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_hunter",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_janet",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_jewelass",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_jimmyboston",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_jimmydisanto",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_joeminuteman",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_johnnyklebitz",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_josef",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_josh",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_karen_daniels",
+            "genre": "cutscene",
+            "dlc": "mpheist"
+        },
+        {
+            "id": "cs_lamardavis",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_lazlow",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_lazlow_2",
+            "genre": "cutscene",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "cs_lestercrest",
+            "genre": "cutscene",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "cs_lifeinvad_01",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_magenta",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_manuel",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_marnie",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_martinmadrazo",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_martinmadrazo_02",
+            "genre": "cutscene",
+            "dlc": "mp2025_01"
+        },
+        {
+            "id": "cs_maryann",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_michelle",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_milton",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_molly",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_movpremf_01",
+            "genre": "cutscene",
+            "dlc": "patchday4ng"
+        },
+        {
+            "id": "cs_movpremmale",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_mrk",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_mrs_thornhill",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_mrsphillips",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_natalia",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_nervousron",
+            "genre": "cutscene",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "cs_nigel",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_old_man1a",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_old_man2",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_omega",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_orleans",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_paper",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_patricia",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_priest",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_prolsec_02",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_russiandrunk",
+            "genre": "cutscene",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "cs_siemonyetarian",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_solomon",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_stevehains",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_stretch",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_tanisha",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_taocheng",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_taostranslator",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_tenniscoach",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_terry",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_tom",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_tomepsilon",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_tracydisanto",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_wade",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "cs_zimbor",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_abigail",
+            "genre": "cutscene",
+            "dlc": "patchday4ng"
+        },
+        {
+            "id": "csb_agent",
+            "genre": "cutscene",
+            "dlc": "mpheist"
+        },
+        {
+            "id": "csb_agent14_02",
+            "genre": "cutscene",
+            "dlc": "mp2025_01"
+        },
+        {
+            "id": "csb_alan",
+            "genre": "cutscene",
+            "dlc": "mpchristmas2018"
+        },
+        {
+            "id": "csb_anita",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_anton",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_avon",
+            "genre": "cutscene",
+            "dlc": "mpchristmas2017"
+        },
+        {
+            "id": "csb_ballasog",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_bogdan",
+            "genre": "cutscene",
+            "dlc": "mpchristmas2017"
+        },
+        {
+            "id": "csb_bride",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_bryony",
+            "genre": "cutscene",
+            "dlc": "mpchristmas2018"
+        },
+        {
+            "id": "csb_burgerdrug",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_car3guy1",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_car3guy2",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_chef",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_chef2",
+            "genre": "cutscene",
+            "dlc": "mpheist"
+        },
+        {
+            "id": "csb_chin_goon",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_cletus",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_cop",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_customer",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_denise_friend",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_dix",
+            "genre": "cutscene",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "csb_djblamadon",
+            "genre": "cutscene",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "csb_englishdave",
+            "genre": "cutscene",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "csb_fos_rep",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_g",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_groom",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_grove_str_dlr",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_hao",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_hugh",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_imran",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_jackhowitzer",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_janitor",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_maude",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_money",
+            "genre": "cutscene",
+            "dlc": "mpheist"
+        },
+        {
+            "id": "csb_mp_agent14",
+            "genre": "cutscene",
+            "dlc": "mpheist"
+        },
+        {
+            "id": "csb_mrs_r",
+            "genre": "cutscene",
+            "dlc": "mpchristmas2017"
+        },
+        {
+            "id": "csb_mweather",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_ortega",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_oscar",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_paige",
+            "genre": "cutscene",
+            "dlc": "mpheist"
+        },
+        {
+            "id": "csb_popov",
+            "genre": "cutscene",
+            "dlc": "mpheist"
+        },
+        {
+            "id": "csb_porndudes",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_prologuedriver",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_prolsec",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_rafdeangelis",
+            "genre": "cutscene",
+            "dlc": "mp2025_01"
+        },
+        {
+            "id": "csb_ramp_gang",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_ramp_hic",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_ramp_hipster",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_ramp_marine",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_ramp_mex",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_rashcosvki",
+            "genre": "cutscene",
+            "dlc": "mpheist"
+        },
+        {
+            "id": "csb_reporter",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_roccopelosi",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_screen_writer",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_sol",
+            "genre": "cutscene",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "csb_stripper_01",
+            "genre": "cutscene",
+            "dlc": "patchday7ng"
+        },
+        {
+            "id": "csb_stripper_02",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_talcc",
+            "genre": "cutscene",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "csb_talmm",
+            "genre": "cutscene",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "csb_tonya",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_tonyprince",
+            "genre": "cutscene",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "csb_trafficwarden",
+            "genre": "cutscene",
+            "dlc": "basegame"
+        },
+        {
+            "id": "csb_undercover",
+            "genre": "cutscene",
+            "dlc": "mpheist"
+        },
+        {
+            "id": "csb_valentina",
+            "genre": "cutscene",
+            "dlc": "mp2025_01"
+        },
+        {
+            "id": "csb_vagspeak",
+            "genre": "cutscene",
+            "dlc": "mplowrider"
+        },
+        {
+            "id": "csb_agatha",
+            "genre": "cutscene",
+            "dlc": "mpvinewood"
+        },
+        {
+            "id": "csb_avery",
+            "genre": "cutscene",
+            "dlc": "mpvinewood"
+        },
+        {
+            "id": "csb_brucie2",
+            "genre": "cutscene",
+            "dlc": "patchday22ng"
+        },
+        {
+            "id": "csb_thornton",
+            "genre": "cutscene",
+            "dlc": "mpvinewood"
+        },
+        {
+            "id": "csb_tomcasino",
+            "genre": "cutscene",
+            "dlc": "mpvinewood"
+        },
+        {
+            "id": "csb_weiss",
+            "genre": "cutscene",
+            "dlc": "mp2025_01"
+        },
+        {
+            "id": "csb_vincent",
+            "genre": "cutscene",
+            "dlc": "mpvinewood"
+        }
+    ],
+    "Gang Female": [
+        {
+            "id": "g_f_importexport_01",
+            "genre": "female",
+            "dlc": "mpimportexport"
+        },
+        {
+            "id": "g_f_y_ballas_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "g_f_y_families_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "g_f_y_lost_01",
+            "genre": "female",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "g_f_y_vagos_01",
+            "genre": "female",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "g_f_m_undeadmage",
+            "genre": "female",
+            "dlc": "mp2025_01"
+        }
+    ],
+    "Gang Male": [
+        {
+            "id": "g_m_importexport_01",
+            "genre": "male",
+            "dlc": "mpimportexport"
+        },
+        {
+            "id": "g_m_m_armboss_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "g_m_m_armgoon_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "g_m_m_armlieut_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "g_m_m_chemwork_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "g_m_m_chiboss_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "g_m_m_chicold_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "g_m_m_chigoon_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "g_m_m_chigoon_02",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "g_m_m_korboss_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "g_m_m_mexboss_01",
+            "genre": "male",
+            "dlc": "patchday4ng"
+        },
+        {
+            "id": "g_m_m_mexboss_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "g_m_y_armgoon_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "g_m_y_azteca_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "g_m_y_ballaeast_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "g_m_y_ballaorig_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "g_m_y_ballasout_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "g_m_y_famca_01",
+            "genre": "male",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "g_m_y_famdnf_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "g_m_y_famfor_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "g_m_y_korean_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "g_m_y_korean_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "g_m_y_korlieut_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "g_m_y_lost_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "g_m_y_lost_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "g_m_y_lost_03",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "g_m_y_mexgang_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "g_m_y_mexgoon_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "g_m_y_mexgoon_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "g_m_y_mexgoon_03",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "g_m_y_pologoon_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "g_m_y_pologoon_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "g_m_y_salvaboss_01",
+            "genre": "male",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "g_m_y_salvagoon_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "g_m_y_salvagoon_02",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "g_m_y_salvagoon_03",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "g_m_y_strpunk_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "g_m_y_strpunk_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "g_m_m_casrn_01",
+            "genre": "male",
+            "dlc": "mpvinewood"
+        },
+        {
+            "id": "g_m_m_zombie_04",
+            "genre": "male",
+            "dlc": "mp2025_01"
+        },
+        {
+            "id": "g_m_m_zombie_05",
+            "genre": "male",
+            "dlc": "mp2025_01"
+        }
+    ],
+    "Multiplayer": [
+        {
+            "id": "mp_f_bennymech_01",
+            "genre": "female",
+            "dlc": "mpchristmas2018"
+        },
+        {
+            "id": "mp_f_boatstaff_01",
+            "genre": "female",
+            "dlc": "mpapartment"
+        },
+        {
+            "id": "mp_f_cardesign_01",
+            "genre": "female",
+            "dlc": "mpimportexport"
+        },
+        {
+            "id": "mp_f_chbar_01",
+            "genre": "female",
+            "dlc": "mpbiker"
+        },
+        {
+            "id": "mp_f_cocaine_01",
+            "genre": "female",
+            "dlc": "mpbiker"
+        },
+        {
+            "id": "mp_f_counterfeit_01",
+            "genre": "female",
+            "dlc": "mpbiker"
+        },
+        {
+            "id": "mp_f_deadhooker",
+            "genre": "female",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "mp_f_execpa_01",
+            "genre": "female",
+            "dlc": "mpexecutive"
+        },
+        {
+            "id": "mp_f_execpa_02",
+            "genre": "female",
+            "dlc": "mpimportexport"
+        },
+        {
+            "id": "mp_f_forgery_01",
+            "genre": "female",
+            "dlc": "patchday13ng"
+        },
+        {
+            "id": "mp_f_freemode_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "mp_f_helistaff_01",
+            "genre": "female",
+            "dlc": "mpexecutive"
+        },
+        {
+            "id": "mp_f_meth_01",
+            "genre": "female",
+            "dlc": "mpbiker"
+        },
+        {
+            "id": "mp_f_misty_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "mp_f_stripperlite",
+            "genre": "female",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "mp_f_weed_01",
+            "genre": "female",
+            "dlc": "mpbiker"
+        },
+        {
+            "id": "mp_g_m_pros_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "mp_m_avongoon",
+            "genre": "male",
+            "dlc": "mpchristmas2017"
+        },
+        {
+            "id": "mp_m_boatstaff_01",
+            "genre": "male",
+            "dlc": "mpapartment"
+        },
+        {
+            "id": "mp_m_bogdangoon",
+            "genre": "male",
+            "dlc": "mpchristmas2017"
+        },
+        {
+            "id": "mp_m_claude_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "mp_m_cocaine_01",
+            "genre": "male",
+            "dlc": "mpbiker"
+        },
+        {
+            "id": "mp_m_counterfeit_01",
+            "genre": "male",
+            "dlc": "mpbiker"
+        },
+        {
+            "id": "mp_m_exarmy_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "mp_m_execpa_01",
+            "genre": "male",
+            "dlc": "mpexecutive"
+        },
+        {
+            "id": "mp_m_famdd_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "mp_m_fibsec_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "mp_m_forgery_01",
+            "genre": "male",
+            "dlc": "mpbiker"
+        },
+        {
+            "id": "mp_m_freemode_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "mp_m_g_vagfun_01",
+            "genre": "male",
+            "dlc": "mplowrider"
+        },
+        {
+            "id": "mp_m_marston_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "mp_m_meth_01",
+            "genre": "male",
+            "dlc": "mpbiker"
+        },
+        {
+            "id": "mp_m_niko_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "mp_m_securoguard_01",
+            "genre": "male",
+            "dlc": "mpimportexport"
+        },
+        {
+            "id": "mp_m_shopkeep_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "mp_m_waremech_01",
+            "genre": "male",
+            "dlc": "mpimportexport"
+        },
+        {
+            "id": "mp_m_weapexp_01",
+            "genre": "male",
+            "dlc": "patchday20ng"
+        },
+        {
+            "id": "mp_m_weapwork_01",
+            "genre": "male",
+            "dlc": "mpgunrunning"
+        },
+        {
+            "id": "mp_m_weed_01",
+            "genre": "male",
+            "dlc": "mpbiker"
+        },
+        {
+            "id": "mp_s_m_armoured_01",
+            "genre": "male",
+            "dlc": "basegame"
+        }
+    ],
+    "Scenario Female": [
+        {
+            "id": "s_f_m_fembarber",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_f_m_maid_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_f_m_shop_high",
+            "genre": "female",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "s_f_m_sweatshop_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_f_y_airhostess_01",
+            "genre": "female",
+            "dlc": "patchday6ng"
+        },
+        {
+            "id": "s_f_y_bartender_01",
+            "genre": "female",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "s_f_y_baywatch_01",
+            "genre": "female",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "s_f_y_clubbar_01",
+            "genre": "female",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "s_f_y_cop_01",
+            "genre": "female",
+            "dlc": "patchday4ng"
+        },
+        {
+            "id": "s_f_y_factory_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_f_y_hooker_01",
+            "genre": "female",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "s_f_y_hooker_02",
+            "genre": "female",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "s_f_y_hooker_03",
+            "genre": "female",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "s_f_y_migrant_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_f_y_movprem_01",
+            "genre": "female",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "s_f_y_ranger_01",
+            "genre": "female",
+            "dlc": "patchday23ng"
+        },
+        {
+            "id": "s_f_y_scrubs_01",
+            "genre": "female",
+            "dlc": "patchday4ng"
+        },
+        {
+            "id": "s_f_y_sheriff_01",
+            "genre": "female",
+            "dlc": "patchday6ng"
+        },
+        {
+            "id": "s_f_y_shop_low",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_f_y_shop_mid",
+            "genre": "female",
+            "dlc": "patchday4ng"
+        },
+        {
+            "id": "s_f_y_stripper_01",
+            "genre": "female",
+            "dlc": "patchday7ng"
+        },
+        {
+            "id": "s_f_y_stripper_02",
+            "genre": "female",
+            "dlc": "patchday4ng"
+        },
+        {
+            "id": "s_f_y_stripperlite",
+            "genre": "female",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "s_f_y_sweatshop_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_f_y_casino_01",
+            "genre": "female",
+            "dlc": "patchday22ng"
+        }
+    ],
+    "Scenario Male": [
+        {
+            "id": "s_m_m_ammucountry",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_m_armoured_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_m_armoured_02",
+            "genre": "male",
+            "dlc": "patchday6ng"
+        },
+        {
+            "id": "s_m_m_autoshop_01",
+            "genre": "male",
+            "dlc": "patchday10ng"
+        },
+        {
+            "id": "s_m_m_autoshop_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_m_bouncer_01",
+            "genre": "male",
+            "dlc": "patchday4ng"
+        },
+        {
+            "id": "s_m_m_ccrew_01",
+            "genre": "male",
+            "dlc": "mpheist"
+        },
+        {
+            "id": "s_m_m_chemsec_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_m_ciasec_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_m_cntrybar_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_m_dockwork_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_m_doctor_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "s_m_m_fiboffice_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_m_fiboffice_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_m_fibsec_01",
+            "genre": "male",
+            "dlc": "mpheist"
+        },
+        {
+            "id": "s_m_m_gaffer_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_m_gardener_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_m_gentransport",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_m_hairdress_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_m_highsec_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_m_highsec_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_m_janitor",
+            "genre": "male",
+            "dlc": "patchday4ng"
+        },
+        {
+            "id": "s_m_m_lathandy_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_m_lifeinvad_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "s_m_m_linecook",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_m_lsmetro_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "s_m_m_mariachi_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_m_marine_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_m_marine_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_m_migrant_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "s_m_m_movalien_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_m_movprem_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_m_movspace_01",
+            "genre": "male",
+            "dlc": "patchday4ng"
+        },
+        {
+            "id": "s_m_m_paramedic_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_m_pilot_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_m_pilot_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_m_postal_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_m_postal_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_m_prisguard_01",
+            "genre": "male",
+            "dlc": "patchday22ng"
+        },
+        {
+            "id": "s_m_m_scientist_01",
+            "genre": "male",
+            "dlc": "patchday6ng"
+        },
+        {
+            "id": "s_m_m_security_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_m_snowcop_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "s_m_m_strperf_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_m_strpreach_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_m_strvend_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_m_trucker_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_m_ups_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_m_ups_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_o_busker_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_y_airworker",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_y_ammucity_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_y_armymech_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_y_autopsy_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_y_barman_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_y_baywatch_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_y_blackops_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_y_blackops_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_y_blackops_03",
+            "genre": "male",
+            "dlc": "mpheist"
+        },
+        {
+            "id": "s_m_y_busboy_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_y_chef_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_y_clown_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "s_m_y_clubbar_01",
+            "genre": "male",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "s_m_y_construct_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_y_construct_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_y_cop_01",
+            "genre": "male",
+            "dlc": "patchday9ng"
+        },
+        {
+            "id": "s_m_y_dealer_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_y_devinsec_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_y_dockwork_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_y_doorman_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_y_dwservice_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_y_dwservice_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_y_factory_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "s_m_y_fireman_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "s_m_y_garbage",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_y_grip_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_y_hwaycop_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "s_m_y_marine_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_y_marine_02",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_y_marine_03",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_y_mime",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "s_m_y_pestcont_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_y_pilot_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_y_prismuscl_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "s_m_y_prisoner_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_y_ranger_01",
+            "genre": "male",
+            "dlc": "patchday23ng"
+        },
+        {
+            "id": "s_m_y_robber_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_y_sheriff_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_y_shop_mask",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_y_strvend_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_y_swat_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_y_uscg_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_y_valet_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "s_m_y_waiter_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_y_waretech_01",
+            "genre": "male",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "s_m_y_winclean_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_y_xmech_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "s_m_y_xmech_02",
+            "genre": "male",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "s_m_y_casino_01",
+            "genre": "male",
+            "dlc": "mpvinewood"
+        },
+        {
+            "id": "s_m_y_westsec_01",
+            "genre": "male",
+            "dlc": "mpvinewood"
+        }
+    ],
+    "Story": [
+        {
+            "id": "hc_driver",
+            "genre": "story",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "hc_gunman",
+            "genre": "story",
+            "dlc": "patchday4ng"
+        },
+        {
+            "id": "hc_hacker",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_abigail",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_agent",
+            "genre": "story",
+            "dlc": "mpheist"
+        },
+        {
+            "id": "ig_agent14_02",
+            "genre": "story",
+            "dlc": "mp2025_01"
+        },
+        {
+            "id": "ig_amandatownley",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_andreas",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_ashley",
+            "genre": "story",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "ig_avon",
+            "genre": "story",
+            "dlc": "mpchristmas2017"
+        },
+        {
+            "id": "ig_ballasog",
+            "genre": "story",
+            "dlc": "patchday4ng"
+        },
+        {
+            "id": "ig_bankman",
+            "genre": "story",
+            "dlc": "patchday25ng"
+        },
+        {
+            "id": "ig_barry",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_benny",
+            "genre": "story",
+            "dlc": "mplowrider"
+        },
+        {
+            "id": "ig_bestmen",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_beverly",
+            "genre": "story",
+            "dlc": "patchday4ng"
+        },
+        {
+            "id": "ig_brad",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_bride",
+            "genre": "story",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "ig_car3guy1",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_car3guy2",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_casey",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_chef",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_chef2",
+            "genre": "story",
+            "dlc": "mpheist"
+        },
+        {
+            "id": "ig_chengsr",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_chrisformage",
+            "genre": "story",
+            "dlc": "patchday6ng"
+        },
+        {
+            "id": "ig_clay",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_claypain",
+            "genre": "story",
+            "dlc": "patchday4ng"
+        },
+        {
+            "id": "ig_cletus",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_dale",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_davenorton",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_denise",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_devin",
+            "genre": "story",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "ig_dix",
+            "genre": "story",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "ig_djblamadon",
+            "genre": "story",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "ig_djblamrupert",
+            "genre": "story",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "ig_djblamryans",
+            "genre": "story",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "ig_djdixmanager",
+            "genre": "story",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "ig_djgeneric_01",
+            "genre": "story",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "ig_djsolfotios",
+            "genre": "story",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "ig_djsoljakob",
+            "genre": "story",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "ig_djsolmanager",
+            "genre": "story",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "ig_djsolmike",
+            "genre": "story",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "ig_djsolrobt",
+            "genre": "story",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "ig_djtalaurelia",
+            "genre": "story",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "ig_djtalignazio",
+            "genre": "story",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "ig_dom",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_dreyfuss",
+            "genre": "story",
+            "dlc": "patchday4ng"
+        },
+        {
+            "id": "ig_drfriedlander",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_englishdave",
+            "genre": "story",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "ig_fabien",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_fbisuit_01",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_floyd",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_g",
+            "genre": "story",
+            "dlc": "mplowrider"
+        },
+        {
+            "id": "ig_groom",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_gustavo_02",
+            "genre": "story",
+            "dlc": "mp2025_01"
+        },
+        {
+            "id": "ig_hao",
+            "genre": "story",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "ig_hunter",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_janet",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_jay_norris",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_jewelass",
+            "genre": "story",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "ig_jimmyboston",
+            "genre": "story",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "ig_jimmyboston_02",
+            "genre": "story",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "ig_jimmydisanto",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_joeminuteman",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_johnnyklebitz",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_josef",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_josh",
+            "genre": "story",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "ig_karen_daniels",
+            "genre": "story",
+            "dlc": "mpheist"
+        },
+        {
+            "id": "ig_kerrymcintosh",
+            "genre": "story",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "ig_kerrymcintosh_02",
+            "genre": "story",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "ig_lacey_jones_02",
+            "genre": "story",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "ig_lamardavis",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_lazlow",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_lazlow_2",
+            "genre": "story",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "ig_lestercrest",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_lestercrest_2",
+            "genre": "story",
+            "dlc": "mpchristmas2017"
+        },
+        {
+            "id": "ig_lifeinvad_01",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_lifeinvad_02",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_magenta",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_madrazodriver_01",
+            "genre": "story",
+            "dlc": "mp2025_01"
+        },
+        {
+            "id": "ig_martinmadrazo_02",
+            "genre": "story",
+            "dlc": "mp2025_01"
+        },
+        {
+            "id": "ig_rafdeangelis",
+            "genre": "story",
+            "dlc": "mp2025_01"
+        },
+        {
+            "id": "ig_skeleton_01",
+            "genre": "story",
+            "dlc": "mp2025_01"
+        },
+        {
+            "id": "ig_valentina",
+            "genre": "story",
+            "dlc": "mp2025_01"
+        },
+        {
+            "id": "ig_weiss",
+            "genre": "story",
+            "dlc": "mp2025_01"
+        },
+        {
+            "id": "ig_zombie_dj_01",
+            "genre": "story",
+            "dlc": "mp2025_01"
+        },
+        {
+            "id": "ig_malc",
+            "genre": "story",
+            "dlc": "mpbiker"
+        },
+        {
+            "id": "ig_manuel",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_marnie",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_maryann",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_maude",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_michelle",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_milton",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_molly",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_money",
+            "genre": "story",
+            "dlc": "mpheist"
+        },
+        {
+            "id": "ig_mp_agent14",
+            "genre": "story",
+            "dlc": "mpheist"
+        },
+        {
+            "id": "ig_mrk",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_mrs_thornhill",
+            "genre": "story",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "ig_mrsphillips",
+            "genre": "story",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "ig_natalia",
+            "genre": "story",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "ig_nervousron",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_nigel",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_old_man1a",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_old_man2",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_omega",
+            "genre": "story",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "ig_oneil",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_orleans",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_ortega",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_paige",
+            "genre": "story",
+            "dlc": "mpheist"
+        },
+        {
+            "id": "ig_paper",
+            "genre": "story",
+            "dlc": "patchday6ng"
+        },
+        {
+            "id": "ig_patricia",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_popov",
+            "genre": "story",
+            "dlc": "mpheist"
+        },
+        {
+            "id": "ig_priest",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_prolsec_02",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_ramp_gang",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_ramp_hic",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_ramp_hipster",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_ramp_mex",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_rashcosvki",
+            "genre": "story",
+            "dlc": "mpheist"
+        },
+        {
+            "id": "ig_roccopelosi",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_russiandrunk",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_sacha",
+            "genre": "story",
+            "dlc": "mpchristmas2018"
+        },
+        {
+            "id": "ig_screen_writer",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_siemonyetarian",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_sol",
+            "genre": "story",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "ig_solomon",
+            "genre": "story",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "ig_stevehains",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_stretch",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_talcc",
+            "genre": "story",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "ig_talina",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_talmm",
+            "genre": "story",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "ig_tanisha",
+            "genre": "story",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "ig_taocheng",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_taostranslator",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_tenniscoach",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_terry",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_tomepsilon",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_tonya",
+            "genre": "story",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "ig_tonyprince",
+            "genre": "story",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "ig_tracydisanto",
+            "genre": "story",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "ig_trafficwarden",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_tylerdix",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_tylerdix_02",
+            "genre": "story",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "ig_vagspeak",
+            "genre": "story",
+            "dlc": "mplowrider"
+        },
+        {
+            "id": "ig_wade",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_zimbor",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "player_one",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "player_two",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "player_zero",
+            "genre": "story",
+            "dlc": "basegame"
+        },
+        {
+            "id": "ig_agatha",
+            "genre": "story",
+            "dlc": "mpvinewood"
+        },
+        {
+            "id": "ig_avery",
+            "genre": "story",
+            "dlc": "mpvinewood"
+        },
+        {
+            "id": "ig_brucie2",
+            "genre": "story",
+            "dlc": "patchday22ng"
+        },
+        {
+            "id": "ig_thornton",
+            "genre": "story",
+            "dlc": "mpvinewood"
+        },
+        {
+            "id": "ig_tomcasino",
+            "genre": "story",
+            "dlc": "mpvinewood"
+        },
+        {
+            "id": "ig_vincent",
+            "genre": "story",
+            "dlc": "mpvinewood"
+        }
+    ],
+    "Story Scenario Female": [
+        {
+            "id": "u_f_m_corpse_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_f_m_miranda",
+            "genre": "female",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "u_f_m_miranda_02",
+            "genre": "female",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "u_f_m_promourn_01",
+            "genre": "female",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "u_f_o_moviestar",
+            "genre": "female",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "u_f_o_prolhost_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_f_y_bikerchic",
+            "genre": "female",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "u_f_y_comjane",
+            "genre": "female",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "u_f_y_corpse_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_f_y_corpse_02",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_f_y_danceburl_01",
+            "genre": "female",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "u_f_y_dancelthr_01",
+            "genre": "female",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "u_f_y_dancerave_01",
+            "genre": "female",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "u_f_y_hotposh_01",
+            "genre": "female",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "u_f_y_jewelass_01",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_f_y_mistress",
+            "genre": "female",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_f_y_poppymich",
+            "genre": "female",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "u_f_y_poppymich_02",
+            "genre": "female",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "u_f_y_princess",
+            "genre": "female",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "u_f_y_spyactress",
+            "genre": "female",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "u_f_m_casinocash_01",
+            "genre": "female",
+            "dlc": "mpvinewood"
+        },
+        {
+            "id": "u_f_m_casinoshop_01",
+            "genre": "female",
+            "dlc": "mpvinewood"
+        },
+        {
+            "id": "u_f_m_debbie_01",
+            "genre": "female",
+            "dlc": "mpvinewood"
+        },
+        {
+            "id": "u_f_o_carol",
+            "genre": "female",
+            "dlc": "patchday22ng"
+        },
+        {
+            "id": "u_f_o_eileen",
+            "genre": "female",
+            "dlc": "mpvinewood"
+        },
+        {
+            "id": "u_f_y_beth",
+            "genre": "female",
+            "dlc": "mpvinewood"
+        },
+        {
+            "id": "u_f_y_lauren",
+            "genre": "female",
+            "dlc": "mpvinewood"
+        },
+        {
+            "id": "u_f_y_taylor",
+            "genre": "female",
+            "dlc": "mpvinewood"
+        }
+    ],
+    "Story Scenario Male": [
+        {
+            "id": "u_m_m_aldinapoli",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_m_bankman",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_m_bikehire_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_m_doa_01",
+            "genre": "male",
+            "dlc": "mpheist"
+        },
+        {
+            "id": "u_m_m_edtoh",
+            "genre": "male",
+            "dlc": "mpheist"
+        },
+        {
+            "id": "u_m_m_fibarchitect",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_m_filmdirector",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_m_glenstank_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_m_griff_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "u_m_m_jesus_01",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "u_m_m_jewelsec_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_m_jewelthief",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_m_markfost",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_m_partytarget",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_m_prolsec_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_m_promourn_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_m_rivalpap",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_m_spyactor",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "u_m_m_streetart_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_m_willyfist",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_o_filmnoir",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_o_finguru_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_o_taphillbilly",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_o_tramp_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_y_abner",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_y_antonb",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_y_babyd",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_y_baygor",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_y_burgerdrug_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_y_chip",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_y_corpse_01",
+            "genre": "male",
+            "dlc": "mpchristmas2017"
+        },
+        {
+            "id": "u_m_y_cyclist_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_y_danceburl_01",
+            "genre": "male",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "u_m_y_dancelthr_01",
+            "genre": "male",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "u_m_y_dancerave_01",
+            "genre": "male",
+            "dlc": "mpbattle"
+        },
+        {
+            "id": "u_m_y_fibmugger_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_y_guido_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_y_gunvend_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_y_hippie_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_y_imporage",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_y_juggernaut_01",
+            "genre": "male",
+            "dlc": "mpchristmas2017"
+        },
+        {
+            "id": "u_m_y_justin",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_y_mani",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_y_militarybum",
+            "genre": "male",
+            "dlc": "patchday3ng"
+        },
+        {
+            "id": "u_m_y_paparazzi",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_y_party_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_y_pogo_01",
+            "genre": "male",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "u_m_y_prisoner_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_y_proldriver_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_y_rsranger_01",
+            "genre": "male",
+            "dlc": "patchday4ng"
+        },
+        {
+            "id": "u_m_y_sbike",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_y_smugmech_01",
+            "genre": "male",
+            "dlc": "mpsmuggler"
+        },
+        {
+            "id": "u_m_y_staggrm_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_y_tattoo_01",
+            "genre": "male",
+            "dlc": "basegame"
+        },
+        {
+            "id": "u_m_y_zombie_01",
+            "genre": "male",
+            "dlc": "mppatchesng"
+        },
+        {
+            "id": "u_m_m_blane",
+            "genre": "male",
+            "dlc": "mpvinewood"
+        },
+        {
+            "id": "u_m_m_curtis",
+            "genre": "male",
+            "dlc": "mpvinewood"
+        },
+        {
+            "id": "u_m_m_vince",
+            "genre": "male",
+            "dlc": "mpvinewood"
+        },
+        {
+            "id": "u_m_o_dean",
+            "genre": "male",
+            "dlc": "mpvinewood"
+        },
+        {
+            "id": "u_m_y_caleb",
+            "genre": "male",
+            "dlc": "mpvinewood"
+        },
+        {
+            "id": "u_m_y_croupthief_01",
+            "genre": "male",
+            "dlc": "mpvinewood"
+        },
+        {
+            "id": "u_m_y_gabriel",
+            "genre": "male",
+            "dlc": "mpvinewood"
+        },
+        {
+            "id": "u_m_y_ushi",
+            "genre": "male",
+            "dlc": "mpvinewood"
+        }
+    ]
+}
